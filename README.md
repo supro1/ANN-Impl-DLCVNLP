@@ -1,6 +1,7 @@
 # ANN-implementation-DLCVNLP-demo
 ANN-implementation-DLCVNLP-demo
 
+Sample VGG16 Model
 
 ## important commands ---------------
 
